@@ -38,7 +38,7 @@
 * December had by far the lowest number of successful campaigns.
 * This trend is present for the overall data, and also within the Theater parent category, as you can see by the two charts below:
 
-![alt text](https://github.com/XZandermarsh/Kickstarter_Challenge/blob/master/All_Outcomes_vs_Launch.png "All Outcomes vs Launch Date")
+![alt text](https://github.com/XZandermarsh/Kickstarter_Challenge/blob/master/All_Outcomes_vs_Launch_2.png "All Outcomes vs Launch Date")
 ![alt text](https://github.com/XZandermarsh/Kickstarter_Challenge/blob/master/Theater_Outcomes_vs_Launch.png "Theater Outcomes vs Launch Date")
 
 
