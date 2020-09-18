@@ -17,7 +17,7 @@
 
 * There were no challenges faced in this particular analysis, but one potential challenge could have been if the data had large spikes in certain months but not an overall trend. This could have occured if the data set was smaller (such as only having data for one year). This could lead to uncertainty about whether a particular month is best/worst to launch a campaign because one would not expect high/low months to be adjacent. For example, the chart below would be the result if only 2011-2012 data were used, and April and November appear to be the best months, which is not an expected result, and does not match the overall trend, outlined in the results section. There were also no failures in these two years, so they success rate (%) would actually appear to be 100%.
 
-![alt text](https://github.com/XZandermarsh/Kickstarter_Challenge/blob/master/Results%20by%20Start%20Month%202011%202012.png "Theater Outcomes vs Launch Date (2011-2012)")
+![alt text](https://github.com/XZandermarsh/Kickstarter_Challenge/blob/master/resources/Results%20by%20Start%20Month%202011%202012.png "Theater Outcomes vs Launch Date (2011-2012)")
 
 ### Analysis of Outcomes Based on Goals
 
@@ -38,17 +38,17 @@
 * December had by far the lowest number of successful campaigns.
 * This trend is present for the overall data, and also within the Theater parent category, as you can see by the two charts below:
 
-![alt text](https://github.com/XZandermarsh/Kickstarter_Challenge/blob/master/All_Outcomes_vs_Launch_2.png "All Outcomes vs Launch Date")
-![alt text](https://github.com/XZandermarsh/Kickstarter_Challenge/blob/master/Theater_Outcomes_vs_Launch.png "Theater Outcomes vs Launch Date")
+![alt text](https://github.com/XZandermarsh/Kickstarter_Challenge/blob/master/resources/All_Outcomes_vs_Launch_2.png "All Outcomes vs Launch Date")
+![alt text](https://github.com/XZandermarsh/Kickstarter_Challenge/blob/master/resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes vs Launch Date")
 
 
 ### Outcomes Based on Goals
 
 * The data suggests that there is not a strong correlation between the initial goal and the overall success of the campaign. As seen by the chart below, there appears to be a slight negative correlation between goal and success rate for campaigns under $25k, but there is another peak for campaigns in the $35k to $45k goal range. However, upon closer inspection, there are far fewer data points available as the goal increases. For example, there are 1005 total projects with goals less than $25k, but there are only 42 projects with goals at $25k or greater. This means that the succes rate seen at the $35k to $45k range may have a much larger margin for error than the lower goal ranges. More data in the higher ranges would be needed to fully draw a conclusion on this question.
 
-![alt text](https://github.com/XZandermarsh/Kickstarter_Challenge/blob/master/Outcomes_vs_Goals.png "Outcomes vs Goals")
+![alt text](https://github.com/XZandermarsh/Kickstarter_Challenge/blob/master/resources/Outcomes_vs_Goals.png "Outcomes vs Goals")
 
 * The chart below shows the total projects as a function of goal. As mentioned above, the number of campaigns tend to decrease above the $5000 mark, to the point where we cannot draw conclusions from the success rate as our sample size decreases. 
 
-![alt text](https://github.com/XZandermarsh/Kickstarter_Challenge/blob/master/Total_Projects_vs_Goal.png "Total Projects vs Goals")
+![alt text](https://github.com/XZandermarsh/Kickstarter_Challenge/blob/master/resources/Total_Projects_vs_Goal.png "Total Projects vs Goals")
 
